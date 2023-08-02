@@ -42,7 +42,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/ViewAccountingInfo%231.png)
 </details>
 
 <details>
@@ -50,7 +50,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/ViewAccountingInfo%232.png)
 </details>
 
 <details>
@@ -58,7 +58,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/CreateAccount.png)
 </details>
 
 <details>
@@ -66,7 +66,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/IncreaseBalance.png)
 </details>
 
 <details>
@@ -74,7 +74,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/DecreaseBalance.png)
 </details>
 
 <details>
@@ -82,7 +82,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/IncomeCalculation.png)
 </details>
 
 <details>
@@ -90,7 +90,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/SendInvoice.png)
 </details>
 
 <details>
@@ -98,7 +98,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/ResetUserBalance.png)
 </details>
 
 <details>
@@ -106,7 +106,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkTaskAsDoneFlow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
 </details>
 
 
