@@ -23,7 +23,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/TaskCreationFLow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/ViewTaskFlow.png)
 </details>
 
 <details>
