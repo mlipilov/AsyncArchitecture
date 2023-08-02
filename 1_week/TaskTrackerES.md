@@ -1,4 +1,5 @@
-According to the business requirements of the TaskTracker( [click to see](https://lms.tough-dev.school/materials/a2162bf68fe04b5cb954430e8ee7327d?pvs=25) ) I have perfromed ES session.
+# ES session, business requirements - [click to see](https://lms.tough-dev.school/materials/a2162bf68fe04b5cb954430e8ee7327d?pvs=25)
+## Task Tracker
 
 <details>
   <summary>Task creation</summary>
@@ -6,3 +7,30 @@ According to the business requirements of the TaskTracker( [click to see](https:
 
 ## **Business flow diagram**
 ![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/TaskCreationFLow.png)
+
+</details>
+
+<details>
+  <summary>Assign tasks</summary>
+  <!-- have to be followed by an empty line! -->
+
+## **Business flow diagram**
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/TaskCreationFLow.png)
+</details>
+
+<details>
+  <summary>View assigned tasks</summary>
+  <!-- have to be followed by an empty line! -->
+
+## **Business flow diagram**
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/TaskCreationFLow.png)
+</details>
+
+<details>
+  <summary>Mark task as done</summary>
+  <!-- have to be followed by an empty line! -->
+
+## **Business flow diagram**
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/TaskCreationFLow.png)
+</details>
+
