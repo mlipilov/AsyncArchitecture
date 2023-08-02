@@ -5,4 +5,4 @@ At the start of the course I had this vision of the future system
   <!-- have to be followed by an empty line! -->
 
 ## **System diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/TaskCreationFLow.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/TaskManager.png)
