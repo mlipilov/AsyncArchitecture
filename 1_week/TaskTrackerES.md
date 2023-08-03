@@ -118,3 +118,27 @@
 </details>
 
 ## Analytics
+
+<details>
+  <summary>Count overall income</summary>
+  <!-- have to be followed by an empty line! -->
+
+## **Business flow diagram**
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
+</details>
+
+<details>
+  <summary>Count daily statistics with the most expensive task</summary>
+  <!-- have to be followed by an empty line! -->
+
+## **Business flow diagram**
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
+</details>
+
+<details>
+  <summary>Count users with negative balance</summary>
+  <!-- have to be followed by an empty line! -->
+
+## **Business flow diagram**
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
+</details>
