@@ -66,7 +66,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/IncreaseBalance.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/IncreaseBalance%232.png)
 </details>
 
 <details>
