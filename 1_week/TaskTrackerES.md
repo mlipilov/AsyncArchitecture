@@ -38,6 +38,14 @@
 ## Accounting
 
 <details>
+  <summary>Count overall income(admins and managers)</summary>
+  <!-- have to be followed by an empty line! -->
+
+## **Business flow diagram**
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/ViewAccountingInfo%231.png)
+</details>
+
+<details>
   <summary>View accounting info(common popug)</summary>
   <!-- have to be followed by an empty line! -->
 
