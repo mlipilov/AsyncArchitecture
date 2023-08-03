@@ -109,4 +109,4 @@
 ![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
 </details>
 
-
+## Analytics
