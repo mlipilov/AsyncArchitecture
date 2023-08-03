@@ -42,7 +42,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/ViewAccountingInfo%231.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/CountOverallIncome.png)
 </details>
 
 <details>
