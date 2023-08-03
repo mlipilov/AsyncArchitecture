@@ -124,7 +124,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/CalculateOverallIncome.png)
 </details>
 
 <details>
@@ -132,7 +132,7 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/GetTheMostExpensiveTasks.png)
 </details>
 
 <details>
@@ -140,5 +140,5 @@
   <!-- have to be followed by an empty line! -->
 
 ## **Business flow diagram**
-![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/MarkAuditLogItemAsPayed.png)
+![alt text](https://github.com/mlipilov/AsyncArchitecture/blob/main/images/CountUsersWithNegativeBakance.png)
 </details>
